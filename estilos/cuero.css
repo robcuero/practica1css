@@ -1,0 +1,15 @@
+
+
+.BG{background-color:#B91B1B}
+#pf1{color: blue}
+
+#su { text-decoration: underline; }
+
+*{                               /* *para todo*/
+	font-family: sans-serif;
+	background-color: #FAE5D3  ;
+	padding-left:  5px;
+  padding-right: 5px;
+  margin-left:   10px;
+  margin-right:  10px;
+}
